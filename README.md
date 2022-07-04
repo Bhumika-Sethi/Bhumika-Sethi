@@ -4,10 +4,10 @@
 
 ##  I'm a Front End Developer, ReactJs developer and avid learner! 
 
--Passionate about web development technologies!
--Building cool projects.
--Contributing to the community.
--Learning new web technologies.
+- Passionate about web development technologies!
+- Building cool projects.
+- Contributing to the community.
+- Learning new web technologies.
 
 
 ## Frontend
