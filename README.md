@@ -11,7 +11,7 @@
 
 
 ## Frontend
-HTML, CSS, JAVASCRIPT, REACT, REDUX, CSS LIBRARIES, SASS, Typescript, Material UI, Ants, NodeJS, ExpressJs, Mongodb.
+HTML, CSS, JAVASCRIPT, REACT, REDUX, CSS LIBRARIES, SASS, Typescript, Material UI, Ants.
 
 
 ## Backend
