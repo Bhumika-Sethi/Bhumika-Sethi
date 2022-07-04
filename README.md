@@ -1,8 +1,8 @@
-# Hey there, I am Bhumika Sethi 👋
+### Hey there, I am Bhumika Sethi 👋
 
 
 
-#  I'm a Front End Developer, ReactJs developer and avid learner! 
+##  I'm a Front End Developer, ReactJs developer and avid learner! 
 
 Passionate about web development technologies!
 Building cool projects.
