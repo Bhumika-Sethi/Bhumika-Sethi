@@ -1,8 +1,8 @@
-# ** Hey there, I am Bhumika Sethi **👋
+# Hey there, I am Bhumika Sethi 👋
 
 
 
-# ** I'm a Front End Developer, ReactJs developer and avid learner! **
+#  I'm a Front End Developer, ReactJs developer and avid learner! 
 
 Passionate about web development technologies!
 Building cool projects.
@@ -20,27 +20,27 @@ Familiar with - MONGODB, EXPRESS, NODE, TYPESCRIPT
 
 
 ## Languages and Tools:
-HTML5
+![HMTL](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
 
-CSS3
+![CSS3](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png) 
 
-Sass
+![Sass](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png)
 
-JavaScript
+![JavaScript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)
 
-React
+![React](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png)
 
-Git
+![Git](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png)
 
-GitHub
+![GitHub](https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png)
 
-Visual Studio Code
+![Visual Studio Code](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png)
 
-typescript
+![typescript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png)
 
-Mongodb
+![Mongodb](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png)
 
-![This is an image](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
+
 
 
 <!--
