@@ -1,4 +1,8 @@
-### Hey there, I am Bhumika Sethi 👋
+<img align="center" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
+
+
+
+<h1 align="center">Hey there, I am Bhumika Sethi 👋 </h1> 
 
 
 
