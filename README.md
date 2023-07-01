@@ -33,7 +33,7 @@ Familiar with - MONGODB, EXPRESS, NODE, TYPESCRIPT
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1AeN9bQlxCe8soo9HJdd81W1WAS_aeeFx/view?usp=sharing](https://drive.google.com/file/d/1AeN9bQlxCe8soo9HJdd81W1WAS_aeeFx/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am funny and I have good sense of styling**
+- ⚡ Fun fact **I think I am funny and I have good sense of styling.**
 
 <h3 align="left">Connect with me:</h3>
 
